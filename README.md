@@ -1,5 +1,5 @@
 # US greenhouse gas insights 2021 
-This is a repository was created for Professor Gotzler's Fall 2024 section of Engl 105 at the University of North Carolina at Chapel Hill. 
+This repository was created for Professor Gotzler's Fall 2024 section of Engl 105 at the University of North Carolina at Chapel Hill. 
 
 --- 
 
